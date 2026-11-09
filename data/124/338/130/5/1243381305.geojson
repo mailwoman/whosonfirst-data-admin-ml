@@ -37,8 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632553,
-        85674525,
-        421187095
+        85674525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +57,7 @@
     "wof:id":1243381305,
     "wof:lastmodified":1566606406,
     "wof:name":"Niamakoro",
-    "wof:parent_id":421187095,
+    "wof:parent_id":85674525,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ml",
     "wof:superseded_by":[],
